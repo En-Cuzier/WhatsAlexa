@@ -1,4 +1,4 @@
-## 🤔 What is WhatsAlexa?! 🤔
+#         💫𝗪𝗵𝗮𝘁𝘀𝗔𝗹𝗲𝘅𝗮🧚‍♀️
 - **WhatsAlexa** is a Helper WhatsApp Bot Written with **[Baileys](https://github.com/adiwajshing/baileys)** Which is hosted on **[Heroku Cloud Server](https://heroku.com).** Also Alexa has a **Lot of Commands/Features,** Including **Artificial Intelligence [ AI ] Features/Commands.**
 
 
@@ -20,7 +20,7 @@
     WhatsAlexa is a Helper WhatsApp Bot Written By @TOXIC-DEVIL with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
     <br>
 
-## ⚙️ Setup ⚙️
+##     ⚙️ Setup ⚙️
 ```
 # bash <(curl -L rotf.lol/WhatsAlexa-Toxic-Devil)
 ```
@@ -34,15 +34,15 @@
 # node alexa.js
 ```
   
-## 💫 Deploy & Run WhatsAlexa 💫
+## 🚀 Deploy & Run WhatsAlexa 🎭
 
 **If You are Lazy to Download Termux or Concerned About Memory leaks, You can Use Below Button 'Run on Replit' to scan QR Code, Also Laptop/Computer is More Confortable To Scan the QR Code.**
 
-[![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/WhatsAlexa)](https://replit.com/@TOXICDEVIL/WhatsAlexa)
+➤ [![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/WhatsAlexa)](https://replit.com/@TOXICDEVIL/WhatsAlexa)
 
 **You must Deploy on Heroku by clicking 'Deploy to Heroku' Button.**
 
-[![Deploy-WhatsAlexa](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/WhatsAlexa)
+➤ [![Deploy-WhatsAlexa](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/WhatsAlexa)
 
 ## ❔ F A Q ( Frequently Asked Questions. ) ❔
 
@@ -111,3 +111,5 @@ Author: Developer, Base, Bug Fixes, Commits, Modules | Contributor: Modules |
 - [x] simi simi chatbot
 
 - [ ] Replika chatbot
+
+##  🧚‍♀️𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗨𝘀𝗶𝗻𝗴 𝗪𝗵𝗮𝘁𝘀𝗔𝗹𝗲𝘅𝗮💫
